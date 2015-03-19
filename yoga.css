@@ -1,0 +1,98 @@
+#navigation{
+	padding: 10px;
+	font-family:'Mrs Sheppards', serife;
+	font-size: 30px;
+	line-height: 50px;
+	float:right;
+	text-align: center;
+	display: inline;
+	list-style-type: none;
+	text-decoration: none;
+	color:yellow;
+}
+
+
+
+h2{
+	font-family: 'Mrs Sheppards', cursive;
+}
+
+#chakra{
+	position: absolute;
+	font-size: 10pt;
+}
+
+
+
+body {
+	background-image: url('meditate10.jpg');
+	color: yellow;
+	font-size: 10pt;
+	
+	
+}
+
+#master{
+	
+	padding:100px;
+	position: absolute;
+	left: 53%;
+	bottom: 52%;
+	display: none;
+}
+
+#the_chakras{
+	 
+
+	position:absolute;
+	top:50%;
+	left:50%;
+	display:none;	
+	padding: 100%;}
+
+
+#hide_and_show{
+	position: absolute;
+	left:63%;
+	bottom:63%;	
+}
+
+#col1{
+
+    width:45%;
+	float: left;
+	font-size: 25pt;
+	font-family: 'Mrs Sheppards', serif;	
+	
+
+	
+}
+
+#col2{
+	width:48%;
+	position: relative;
+	font-size: 25pt;
+	bottom: 70%;
+	left: 100px;
+	padding-bottom: 50%;
+	float: right;
+	font-family: 'Mrs Sheppards', serif;
+
+	}
+
+#col3{
+	width:30%;
+	float: left;
+	font-size: 25pt;
+	font-family: 'Mrs Sheppards', serif;
+}
+
+#col4{
+	width:30%;
+	float: left;
+	font-size: 25pt;
+	font-family: 'Mrs Sheppards', serif;
+	position: absolute;
+	left: 53%;
+	top: 195%;
+	
